@@ -1,0 +1,5 @@
+oanhbot: nc 54.157.217.45 29669
+oldschool: nc 54.157.217.45 19669
+SmallService: nc 54.157.217.45 39669
+Baby ARM Shellcode: nc 212.47.229.147 9999
+CalcConv: nc 54.157.217.45 49669
